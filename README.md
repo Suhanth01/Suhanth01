@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1400" height="300" src='https://i.ibb.co/37QB9Xt/Suhanth-Cover.png'>
+  <img width="900" height="250" src='https://i.ibb.co/RpTWtGQ/updated.png'>
 </p>
 <h1 align='center'> Hi there </br> 👋,</h1>
 <h2 align='center'>I'm Suhanth Pambi</h2>
